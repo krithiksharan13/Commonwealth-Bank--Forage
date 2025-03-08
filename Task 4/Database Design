@@ -1,0 +1,4 @@
+- The list of tables to include in data set.
+- The items to include in each data set. This should include a variable name and a brief description of each field.
+- The primary key for each data set.
+- The relationships between tables.
