@@ -14,13 +14,11 @@ This Repository consist of all the  PowerBI, PDF and Excel files of the tasks th
 ### [Task 2 Final Anonymized Excel Sheet](https://github.com/krithiksharan13/Commonwealth-Bank--Forage/blob/main/Task%202/mobile_customers_anonymisation.xlsx)
 
 ## Task 3: Propose Data Analysis Approaches: -
-### [Task 3 Final Proposal PPT](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation%2Fmain%2FTask%25203%253A%2520Propose%2520Data%2520Analysis%2520Approaches%2FForage%2520CommomWealth%2520Introduction%2520to%2520Data%2520Science%2520Task%25203.pptx&wdOrigin=BROWSELINK)
-### [Task 3 Final Proposal PDF](https://github.com/ADVAIT135/Forage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation/blob/0ed8dfc3632483a727687967322cd0c4ae7d5696/Task%203%3A%20Propose%20Data%20Analysis%20Approaches/Forage%20CommomWealth%20Introduction%20to%20Data%20Science%20Task%203.pdf)
+### [Task 3 Final Proposal PDF](https://github.com/krithiksharan13/Commonwealth-Bank--Forage/blob/main/Task%203/Proposal.pdf)
 
 ## Task 4: Designing a Database: -
-### [Task 4 Final Database Design Proposal PPT](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation%2Fmain%2FTask%25204%253A%2520Designing%2520a%2520Database%2FForage%2520CommonWealth%2520Bank%2520Introduction%2520to%2520Data%2520Science%2520Task%25204.pptx&wdOrigin=BROWSELINK)
-### [Task 4 Final Database Design Proposal PDF](https://github.com/ADVAIT135/Forage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation/blob/0ed8dfc3632483a727687967322cd0c4ae7d5696/Task%204%3A%20Designing%20a%20Database/Forage%20CommonWealth%20Bank%20Introduction%20to%20Data%20Science%20Task%204.pdf)
+### [Task 4 Final Database Design Proposal PDF](https://github.com/krithiksharan13/Commonwealth-Bank--Forage/blob/main/Task%204/Database%20Design.pdf)
 
 <hr>
 
-## [Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/smwfytX3mcLboA9bf_Commonwealth%20Bank_xHj9pxotQTSvEtW8B_1707294422044_completion_certificate.pdf)
+## [Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_EGf2NRH3awR8np98E_1741418522339_completion_certificate.pdf)
